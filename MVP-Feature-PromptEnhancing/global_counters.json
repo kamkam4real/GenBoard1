@@ -1,0 +1,27 @@
+{
+  "videos_generated": 11,
+  "images_generated": 0,
+  "chat_messages": 1,
+  "enhanced_prompts": 0,
+  "first_used": "2025-06-19T22:45:06.091262",
+  "last_updated": "2025-07-01T23:22:06.118618",
+  "video_durations": [
+    {
+      "duration_seconds": 5,
+      "generated_at": "2025-06-19T22:46:57.599357"
+    },
+    {
+      "duration_seconds": 8,
+      "generated_at": "2025-06-19T22:57:41.840503"
+    },
+    {
+      "duration_seconds": 6,
+      "generated_at": "2025-06-19T22:58:57.071761"
+    }
+  ],
+  "videos_5s": 2,
+  "videos_8s": 8,
+  "videos_7s": 0,
+  "videos_6s": 1,
+  "total_video_duration_seconds": 19
+}
